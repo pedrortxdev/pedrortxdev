@@ -1,55 +1,42 @@
-## 👨‍💻 Olá! Sou Pedro Henrique
+## 👋 Olá, eu sou o Pedro Henrique
 
-Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Tenho foco em **performance** e **escalabilidade**, com experiência sólida em desenvolvimento Backend e Systems Programming.
+Sou um desenvolvedor em formação com foco em **backend, sistemas distribuídos e automação**.  
+Estou sempre explorando novas tecnologias, resolvendo problemas e aplicando conhecimento de **Linux, Python e infra** no meu dia a dia 💻🐧
 
-- 🔭 **Stack Principal:** Rust, Go e Python.
-- 🌱 **Estudando:** Data Science e Análise de Dados (NumPy/Pandas).
-- 💡 **Objetivo:** Criar soluções criativas e eficientes que impactem o mundo real.
+📌 Atualmente estudo **Engenharia da Computação** e construo projetos usando Python, SQL e ferramentas modernas.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 O que eu estudo e uso
 
-Organizei minha stack por áreas de atuação:
+### 🛠️ Tecnologias
+- **Backend:** Python, FastAPI
+- **DevOps / Infra:** Linux, Bash, systemd, containers
+- **Banco de dados:** PostgreSQL, SQLite
+- **Outros:** Git, GitHub, redes (tc, iptables), Rust (meu interesse x verdade real 😁)
 
-**Languages & Backend:**
-<div style="display: inline_block">
-  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-</div>
-
-**Data Science:**
-<div style="display: inline_block">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-</div>
-
-**Database:**
-<div style="display: inline_block">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-</div>
-
-**Frontend & Tools:**
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 </div>
 
-<br>
+---
 
-> _"Desenvolver é transformar ideias em soluções."_ 💡
+## 📊 Meus stats
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHenriqueDevBR&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroHenriqueDevBR&layout=compact&theme=dracula"/>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📫 Como me encontrar
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrortxdev&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrortxdev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 💼 GitHub: https://github.com/PedroHenriqueDevBR :contentReference[oaicite:1]{index=1}
+- 📬 Email: *(adiciona aqui se quiser público)*
+
+---
+
+> “Tecnologia é a arte de transformar problemas em soluções simples.”  
